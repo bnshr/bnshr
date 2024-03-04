@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bnshr
 - 👀 I’m interested in Kubernetes, AWS, Docker, Cloud Automation.
-- 🌱 I’m currently learning essential protocols of Radio Access Network (RAN) in Telco.
-- 💞️ I’m looking to collaborate on dist. systems (storage, logging etc)
+- 🌱 I’m currently collaborating on the on dist. systems (storage, logging etc).
+- 💞️ I’m looking to collaborate on AWS Red Hat OpenShift (ROSA).
 - 📫 You can reach out to me via email / google chat. Looking forward to that.
 
 <!---
