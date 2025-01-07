@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bnshr
 - 👀 I’m interested in Kubernetes, AWS, Docker, Cloud Automation.
-- 🌱 I’m currently collaborating on dist. systems topics (storage, logging etc).
+- 🌱 I've collaborated on dist. systems topics (storage, logging etc).
 - 💞️ I’m looking to collaborate on AWS Red Hat OpenShift (ROSA).
 - 📫 You can reach out to me via email / google chat. Looking forward to that.
 
